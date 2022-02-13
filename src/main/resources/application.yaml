@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: xivraiddb
+    password: xivraid
+    url: jdbc:mysql://localhost:3306/ffxivplanner
